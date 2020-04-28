@@ -3,8 +3,8 @@ h1{
     font-weight: bold;
     font-style: initial;
     font-size: 40px;
-
 }
+
 p{
     font-family: 'georgia';
     font-size: 16px;
@@ -19,6 +19,7 @@ p{
     font-family:'georgia'
 
 }
+
 .collections {
     background-color: lightgray;
 }    
@@ -29,8 +30,8 @@ p{
 } 
 div {
     padding-right:200px;
-    padding-left:200px;
-  }
+    padding-left:200px;  
+}
 
 #fontPartner{
     font-family: 'Segoe UI';
@@ -65,13 +66,17 @@ a {
 .grayRows {
     background-color: lightgray;
     color: white;
-  }
+}
 
   .formMargin{
     padding-right:0px;
     padding-left: 0px;
       
-  }
+}
   .changeFont{
     font-family: Georgia;
-  }
+}
+
+    body, html {
+    height: 100%;
+}
